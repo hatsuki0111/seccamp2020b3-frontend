@@ -14,6 +14,7 @@ function updateUI() {
   }
 }
 
+//change
 // Handle login
 /*
 lock.on('authenticated', (authResult) => {
